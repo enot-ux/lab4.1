@@ -13,7 +13,7 @@
 1. Склонуйте репозиторій:
 
     ```bash
-    git clone https://github.com/your-username/palindrome-checker.git
+    git clone https://github.com/enot-ux/lab4.1
     ```
 
 2. Компілюйте файли:
